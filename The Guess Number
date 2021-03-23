@@ -1,0 +1,12 @@
+1) yang di print adalah yg sesuai dengan informasi range
+2) ketika game selesai oleh user, maka game otomatis refresh ke new game dan mulai tebakan baru
+3) print angka kesempatan yang tersisa
+4) print angka benar klw kesempatan user menebak habis
+
+BAD #1
+http://www.codeskulptor.org/#user48_mtu9nGNYaD_0.py
+BAD #2
+http://www.codeskulptor.org/#user47_sQeQP0IJJV_13.py
+
+Excellent #1
+http://www.codeskulptor.org/#user48_tgrMQ72WCU_5.py
